@@ -106,7 +106,7 @@ with the meaning/intent of all explicit items.
 
 **KEY**: "==", "{}", Patterns
 
-- "==": Equivalent meanings of words/phrases/lines.
+- "==": Equivalent meanings of words/phrases/lines/passages.
 
 - "{}" (braces): Commentary, often Scripture.
 
@@ -160,3 +160,5 @@ higher {different} than your ways {"immorality, ..."}"
 
 - B2: "and My thoughts {"love, joy ..."}
 {different} than your thoughts {"immorality, ..."}."
+
+**{Isaiah 55:6-9 == Galatians 5:19-23}**
