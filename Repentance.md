@@ -162,3 +162,8 @@ higher {different} than your ways {"immorality, ..."}"
 {different} than your thoughts {"immorality, ..."}."
 
 **{Isaiah 55:6-9 == Galatians 5:19-23}**
+
+- The combined effect of reading
+- both passages together is as if
+- Jehovah is talking to us about
+- Repentance **in stereo!**
