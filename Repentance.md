@@ -121,7 +121,7 @@ while He may be found
 
 - A2: "call upon Him while He is near."
 
-**Isaiah 55:7** (AMP), {Pattern: A1 == A2, B1C1 == B2C2}, **with Galatians 5:19-23**
+**Isaiah 55:7** (AMP), {Pattern: A1 == A2, B1C1 == B2C2}, **with Galatians 5:19-23** (AMP)
 
 - A1: "Let the wicked forsake his way {"immorality, ..."}"
 
@@ -137,7 +137,7 @@ while He may be found
 
 - C2: "for He will multiply to him His abundant pardon."
 
-**Isaiah 55:8** (AMP), {Pattern: A1 == A2, B1}, **with Galatians 5:19-23**
+**Isaiah 55:8** (AMP), {Pattern: A1 == A2, B1}, **with Galatians 5:19-23** (AMP)
 
 - A1: "For My thoughts {"love, joy ..."}
 are not your thoughts {"immorality, ..."},"
@@ -148,7 +148,7 @@ My ways {"love, joy ..."},"
 - 
 - B1: "says the Lord."
 
-**Isaiah 55:9** (AMP), {Pattern: A1, B1 == B2}, **with Galatians 5:19-23**
+**Isaiah 55:9** (AMP), {Pattern: A1, B1 == B2}, **with Galatians 5:19-23** (AMP)
 
 - A1: "For as the heavens are higher than the earth,"
 
