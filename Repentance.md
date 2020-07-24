@@ -7,7 +7,7 @@
 - "… not desiring that any should perish,
 
 - but that all should turn to repentance.",
-2 Peter 3:9 (AMP)
+2 Peter 3:9 ([AMP][1])
 
 ### Preparation for Repentance
 
@@ -22,7 +22,7 @@ party spirit (factions, sects with
 peculiar opinions, heresies),
 21Envy, drunkenness, carousing,
 and the like.",
-Galatians 5:19-21a (AMP)
+Galatians 5:19-21a ([AMP][1])
 
 - 
 - "I warn you beforehand,
@@ -30,7 +30,7 @@ just as I did previously,
 
 - that those who do such things shall
 not inherit the kingdom of God.",
-Galatians 5:21b (AMP)
+Galatians 5:21b ([AMP][1])
 
 - 
 - "22But the fruit of the [Holy] Spirit
@@ -46,11 +46,11 @@ self-control (self-restraint, continence).
 
 - Against such things there is no law
 [that can bring a charge].",
-Galatians 5:22-23 (AMP)
+Galatians 5:22-23 ([AMP][1])
 
 ### Analysis of Repentance
 
-As Given, Isaiah 55:6-9 (AMP)
+As Given, Isaiah 55:6-9 ([AMP][1])
 
 - "6 Seek, inquire for, and require the Lord
 while He may be found
@@ -121,7 +121,7 @@ while He may be found
 
 - A2: "call upon Him while He is near."
 
-**Isaiah 55:7** (AMP), {Pattern: A1 == A2, B1C1 == B2C2}, **with Galatians 5:19-23** (AMP)
+**Isaiah 55:7** ([AMP][1]), {Pattern: A1 == A2, B1C1 == B2C2}, **with Galatians 5:19-23** ([AMP][1])
 
 - A1: "Let the wicked forsake his way {"immorality, ..."}"
 
@@ -137,7 +137,7 @@ while He may be found
 
 - C2: "for He will multiply to him His abundant pardon."
 
-**Isaiah 55:8** (AMP), {Pattern: A1 == A2, B1}, **with Galatians 5:19-23** (AMP)
+**Isaiah 55:8** ([AMP][1]), {Pattern: A1 == A2, B1}, **with Galatians 5:19-23** ([AMP][1])
 
 - A1: "For My thoughts {"love, joy ..."}
 are not your thoughts {"immorality, ..."},"
@@ -148,7 +148,7 @@ My ways {"love, joy ..."},"
 - 
 - B1: "says the Lord."
 
-**Isaiah 55:9** (AMP), {Pattern: A1, B1 == B2}, **with Galatians 5:19-23** (AMP)
+**Isaiah 55:9** ([AMP][1]), {Pattern: A1, B1 == B2}, **with Galatians 5:19-23** ([AMP][1])
 
 - A1: "For as the heavens are higher than the earth,"
 
@@ -167,3 +167,4 @@ higher {different} than your ways {"immorality, ..."}"
 - both passages together is as if
 - Jehovah is talking to us about
 - Repentance **in stereo!**
+[1]: http://www.Lockman.org/

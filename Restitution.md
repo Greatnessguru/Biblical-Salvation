@@ -15,7 +15,7 @@ He prayed [all the] more earnestly and
 intently, and His sweat became like
 great [g]clots of blood dropping down
 upon the ground.",
-Luke 22:41-44 (AMP)
+Luke 22:41-44 ([AMP][1])
 
 - The Father of Jesus did not
 "remove this cup from" Jesus,
@@ -50,7 +50,7 @@ becoming the "first fruits".
 
 Instead, the Father of Jesus was,
 "… not desiring that any should perish,
-…", 2 Peter 3:9 (AMP), and therefore
+…", 2 Peter 3:9 ([AMP][1]), and therefore
 was "willing" to allow
 innocent, sinless Jesus to be
 murdered by Satan so that
@@ -68,4 +68,5 @@ with an incorruptible, immortal body,
 foreshadowing the resurrection]
 
 - of those who have fallen asleep [in death].",
-1 Corinthians 15:20 (AMP)
+1 Corinthians 15:20 ([AMP][1])
+[1]: http://www.Lockman.org/
