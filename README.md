@@ -6,6 +6,8 @@ Biblical Salvation:
 Markdown and PDF files:
 **[https://github.com/Greatnessguru/Biblical-Salvation](https://github.com/Greatnessguru/Biblical-Salvation)**
 
+[“Scripture quotations taken from the Amplified Bible."](http://www.Lockman.org/)
+
 Please read, print, share. Thank you.
 
 - Greatness: "Find a way to serve the many.",
